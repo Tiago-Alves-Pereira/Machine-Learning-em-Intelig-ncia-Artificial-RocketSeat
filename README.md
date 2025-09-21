@@ -6,5 +6,4 @@ Repositório com minhas anotações e resolução dos exercícios do curso Machi
 
 
 ## Exercícios
----
  - [Exercício 01](https://github.com/Tiago-Alves-Pereira/Machine-Learning-em-Intelig-ncia-Artificial-RocketSeat/blob/master/Desafio01.md)
